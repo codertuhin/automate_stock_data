@@ -1,0 +1,8 @@
+I:\Upwork\AutomateStockData\SharedLibrary\bin\Debug\SharedLibrary.dll
+I:\Upwork\AutomateStockData\SharedLibrary\bin\Debug\SharedLibrary.pdb
+I:\Upwork\AutomateStockData\SharedLibrary\bin\Debug\Newtonsoft.Json.dll
+I:\Upwork\AutomateStockData\SharedLibrary\bin\Debug\Newtonsoft.Json.xml
+I:\Upwork\AutomateStockData\SharedLibrary\obj\Debug\SharedLibrary.csprojResolveAssemblyReference.cache
+I:\Upwork\AutomateStockData\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+I:\Upwork\AutomateStockData\SharedLibrary\obj\Debug\SharedLibrary.dll
+I:\Upwork\AutomateStockData\SharedLibrary\obj\Debug\SharedLibrary.pdb

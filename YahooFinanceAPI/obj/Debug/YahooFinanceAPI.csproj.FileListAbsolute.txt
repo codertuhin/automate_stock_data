@@ -1,0 +1,6 @@
+I:\Upwork\AutomateStockData\YahooFinanceAPI\bin\Debug\YahooFinanceAPI.dll
+I:\Upwork\AutomateStockData\YahooFinanceAPI\bin\Debug\YahooFinanceAPI.pdb
+I:\Upwork\AutomateStockData\YahooFinanceAPI\obj\Debug\YahooFinanceAPI.csprojResolveAssemblyReference.cache
+I:\Upwork\AutomateStockData\YahooFinanceAPI\obj\Debug\YahooFinanceAPI.csproj.CoreCompileInputs.cache
+I:\Upwork\AutomateStockData\YahooFinanceAPI\obj\Debug\YahooFinanceAPI.dll
+I:\Upwork\AutomateStockData\YahooFinanceAPI\obj\Debug\YahooFinanceAPI.pdb

@@ -1,0 +1,14 @@
+C:\Users\coder\Desktop\EPPlus-master\EPPlus\bin\Debug\EPPlus.XML
+C:\Users\coder\Desktop\EPPlus-master\EPPlus\bin\Debug\EPPlus.dll
+C:\Users\coder\Desktop\EPPlus-master\EPPlus\bin\Debug\EPPlus.pdb
+C:\Users\coder\Desktop\EPPlus-master\EPPlus\obj\Debug\EPPlus.csprojResolveAssemblyReference.cache
+C:\Users\coder\Desktop\EPPlus-master\EPPlus\obj\Debug\EPPlus.csproj.CoreCompileInputs.cache
+C:\Users\coder\Desktop\EPPlus-master\EPPlus\obj\Debug\EPPlus.dll
+C:\Users\coder\Desktop\EPPlus-master\EPPlus\obj\Debug\EPPlus.pdb
+I:\Upwork\AutomateStockData\EPPlus\bin\Debug\EPPlus.XML
+I:\Upwork\AutomateStockData\EPPlus\bin\Debug\EPPlus.dll
+I:\Upwork\AutomateStockData\EPPlus\bin\Debug\EPPlus.pdb
+I:\Upwork\AutomateStockData\EPPlus\obj\Debug\EPPlus.csprojResolveAssemblyReference.cache
+I:\Upwork\AutomateStockData\EPPlus\obj\Debug\EPPlus.csproj.CoreCompileInputs.cache
+I:\Upwork\AutomateStockData\EPPlus\obj\Debug\EPPlus.dll
+I:\Upwork\AutomateStockData\EPPlus\obj\Debug\EPPlus.pdb
